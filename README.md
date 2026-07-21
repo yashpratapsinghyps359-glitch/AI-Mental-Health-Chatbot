@@ -32,7 +32,7 @@ An AI-powered mental health companion designed to help college students manage s
 ```text
 AI-Mental-Health-Chatbot/
 │
-├── app.py
+├── app_final.py
 ├── README.md
 └── .streamlit/
     └── secrets.toml
@@ -81,7 +81,7 @@ GROQ_API_KEY = "your_api_key_here"
 Run the following command in Terminal:
 
 ```bash
-streamlit run app.py
+streamlit run app_final.py
 ```
 
 The application will open in your browser.
