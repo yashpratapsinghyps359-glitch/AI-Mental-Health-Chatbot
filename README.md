@@ -1,5 +1,7 @@
 # 🧠 AI Mental Health Chatbot
 
+Live Demo:-https://ai-mental-health-chatbot-bw3cdomzjvq8fcfptb8zav.streamlit.app
+
 An AI-powered mental health companion designed to help college students manage stress, exam pressure, and everyday emotional challenges.
 
 ## ✨ Features
